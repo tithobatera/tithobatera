@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou o Tiago Pontes
 
 
-📚 Estudando: Analise e desenvolvimento de sistemas
-📚 Estudando: Engenharia de Software
+📚 Estudando: Analise e desenvolvimento de sistemas.
+📚 Estudando: Engenharia de Software.
 
 
-🎓 Formado em Web Development pela Master D (Portugal) — nota final 98/100
-🎓 Graduado em Ciencias contabeis 
-🎓 Pós Graduado em MBA em Gestao empresarial
+🎓 Formado em Web Development pela Master D (Portugal) — nota final 98/100.
+🎓 Graduado em Ciencias contabeis.
+🎓 Pós Graduado em MBA em Gestao empresarial.
 
 💻 Apaixonado por tecnologia e desenvolvimento web  
 📍 Buscando oportunidades na área de TI no Brasil  
