@@ -75,6 +75,7 @@ Gosto de trabalhar tanto com novos projetos quanto com a manutenção de sistema
 - 📁 [projeto-slide-show-php](https://github.com/tithobatera/slides-show-php) – Projeto realizado para terceiro (Empresa interna) com HTML, Bootstrap, PHP e JS.
 
 
+---
 
 ### ⚡ Fun facts
 
