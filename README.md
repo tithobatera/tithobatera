@@ -1,3 +1,6 @@
+
+<img src = "banner.gif" width = "325px">
+
 # 👋 Olá! Eu sou o Tiago Pontes
 
 
