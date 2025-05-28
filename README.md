@@ -17,7 +17,7 @@
 
 ## 💼 Repositórios em destaque
 
-- 📁 [PROJETO HOSPEDADO](https://meuportifolio-1.netlify.app/) – 
+- 📁 [PROJETO HOSPEDADO](https://meuportifolio-1.netlify.app/) – Projeto de simulação e controle de cotações.
 
 - 📁 [projeto-seguro-saude-php](https://github.com/tithobatera/seguro-saude-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
 - 📁 [projeto-loja-tshirts-php](https://github.com/tithobatera/loja-t-shirts-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
