@@ -1,5 +1,5 @@
 
-<img src = "banner.gif" width = "325px">
+<img src = "banner.gif" width = "325px" aling = "right">
 
 # 👋 Olá! Eu sou o Tiago Pontes
 
