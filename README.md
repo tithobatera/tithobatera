@@ -22,5 +22,5 @@
 - 📁 [projeto-seguro-saude-php](https://github.com/tithobatera/seguro-saude-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
 - 📁 [projeto-loja-tshirts-php](https://github.com/tithobatera/loja-t-shirts-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
 - 📁 [projeto-portifolio-orçamento-tecnologico-html](https://github.com/tithobatera/portifolio-orcamento-html) – Portfólio pessoal com HTML, CSS e JS. - PROJETO HOSPEDADO
-- 📁 [projeto-slide-show-php](https://github.com/tithobatera/portifolio-orcamento-html) – Projeto realizado para terceiro (Empresa interna) com HTML, Bootstrap, PHP e JS.
+- 📁 [projeto-slide-show-php](https://github.com/tithobatera/slides-show-php) – Projeto realizado para terceiro (Empresa interna) com HTML, Bootstrap, PHP e JS.
   
