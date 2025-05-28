@@ -1,5 +1,5 @@
 
-<img src = "banner.gif" width = "205px" align = "right">
+<img src = "banner.gif" width = "200px" align = "right">
 
 ### Olá! Eu sou Tiago Pontes 👋
 
