@@ -9,9 +9,9 @@
 - 🎓 Graduado em Ciencias contabeis.
 - 🎓 Pós Graduado em MBA em Gestao empresarial.
 
--💻 Apaixonado por tecnologia e desenvolvimento web  
--📍 Buscando oportunidades na área de TI no Brasil  
--📚 Linguagens de estudo: JAVA(em breve: PYTHON)
+💻 Apaixonado por tecnologia e desenvolvimento web  
+📍 Buscando oportunidades na área de TI no Brasil  
+📚 Linguagens de estudo: JAVA(em breve: PYTHON)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tiago-pontes-5030b3191/) | [Email](tithobatera2014@gmail.com)
 
