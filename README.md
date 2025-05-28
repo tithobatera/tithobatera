@@ -47,18 +47,21 @@ Gosto de trabalhar tanto com novos projetos quanto com a manutenção de sistema
 ### 🔗 Onde me encontrar
 <div id="badges">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tiago-pontes-5030b3191/" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-pontes-5030b3191/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   <!-- YouTube -->
-  <a href="https://youtube.com](https://www.youtube.com/@tiagopontes-1810" target="_blank">
+  <a href="https://www.youtube.com/@tiagopontes-1810" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+
   <!-- Portfólio -->
-  <a href="https://meuportifolio-1.netlify.app/" target="_blank">
+  <a href="https://meuportifolio-1.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio Badge"/>
   </a>
 </div>
+
 
 ---
 
