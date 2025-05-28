@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Tiago Pontes
 
-<!--
-**tithobatera/tithobatera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Em Formação
+📚 Estudando: Analise e desenvolvimento de sistemas
+📚 Estudando: Engenharia de Software
 
-Here are some ideas to get you started:
+##Fomrmações concluidas
+🎓 Formado em Web Development pela Master D (Portugal) — nota final 98/100
+🎓 Graduado em Ciencias contabeis 
+🎓 Pós Graduado em MBA em Gestao empresarial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Apaixonado por tecnologia e desenvolvimento web  
+📍 Buscando oportunidades na área de TI no Brasil  
+📚 Linguagens de estudo: JAVA(em breve: PYTHON)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/tiago-pontes-5030b3191/) | [Email](tithobatera2014@gmail.com)
+
+## 💼 Repositórios em destaque
+
+- 📁 [PROJETO HOSPEDADO](https://meuportifolio-1.netlify.app/) – 
+
+- 📁 [projeto-seguro-saude-php](https://github.com/tithobatera/seguro-saude-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
+- 📁 [projeto-loja-tshirts-php](https://github.com/tithobatera/loja-t-shirts-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
+- 📁 [projeto-portifolio-orçamento-tecnologico-html](https://github.com/tithobatera/portifolio-orcamento-html) – Portfólio pessoal com HTML, CSS e JS. - PROJETO HOSPEDADO
+- 📁 [projeto-slide-show-php](https://github.com/tithobatera/portifolio-orcamento-html) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
+  
