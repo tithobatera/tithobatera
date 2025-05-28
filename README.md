@@ -13,7 +13,7 @@
 📍 Buscando oportunidades na área de TI no Brasil  
 📚 Linguagens de estudo: JAVA(em breve: PYTHON)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tiago-pontes-5030b3191/) | [Email](tithobatera2014@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tiago-pontes-5030b3191/)
 
 ## 💼 Repositórios em destaque
 
