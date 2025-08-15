@@ -68,8 +68,8 @@ Gosto de trabalhar tanto com novos projetos quanto com a manutenção de sistema
 
 ## 💼 Repositórios em destaque
 
-- 📁 [PROJETO HOSPEDADO](https://meuportifolio-1.netlify.app/) – Projeto de simulação e controle de cotações.
-- 📁 [PROJETO HOSPEDADO](https://dicaseachadinhospravoce.netlify.app/) – Loja de rediresionamento online hospedada e criação de cards online para implementação em projeto.
+- 📁 [Meu primeiro portifólio hospedado](https://meuportifolio-1.netlify.app/) – Projeto de simulação e controle de cotações.
+- 📁 [Loja de links hospedado](https://dicaseachadinhospravoce.netlify.app/) – Loja de rediresionamento online hospedada e criação de cards online para implementação em projeto.
 
 - 📁 [projeto-seguro-saude-php](https://github.com/tithobatera/seguro-saude-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
 - 📁 [projeto-loja-tshirts-php](https://github.com/tithobatera/loja-t-shirts-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
