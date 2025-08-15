@@ -32,6 +32,8 @@ Sou um estudante de tecnologia focado em desenvolvimento web. Tenho experiência
 • 📚 Java ☕ (em breve!)
 • 📚 Python 🐍 (em breve!)
 
+---
+
 • 🎓 Formado em Web Development pela Master D (Portugal) — nota final 98/100.
 • 🎓 Graduado em Ciencias contabeis.
 • 🎓 Pós Graduado em MBA em Gestao empresarial.
