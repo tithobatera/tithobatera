@@ -28,7 +28,8 @@ Sou um estudante de tecnologia focado em desenvolvimento web. Tenho experiência
 
 🚧 **No momento estudando:**  
 • 📚 Analise e desenvolvimento de sistemas - Java ☕  
-• 📚 Engenharia de Software. ☕  
+• 📚 Engenharia de Software.  
+• 📚 Java ☕ (em breve!)
 • 📚 Python 🐍 (em breve!)
 
 • 🎓 Formado em Web Development pela Master D (Portugal) — nota final 98/100.
@@ -68,6 +69,7 @@ Gosto de trabalhar tanto com novos projetos quanto com a manutenção de sistema
 ## 💼 Repositórios em destaque
 
 - 📁 [PROJETO HOSPEDADO](https://meuportifolio-1.netlify.app/) – Projeto de simulação e controle de cotações.
+- 📁 [PROJETO HOSPEDADO](https://dicaseachadinhospravoce.netlify.app/) – Loja de rediresionamento online hospedada e criação de cards online para implementação em projeto.
 
 - 📁 [projeto-seguro-saude-php](https://github.com/tithobatera/seguro-saude-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
 - 📁 [projeto-loja-tshirts-php](https://github.com/tithobatera/loja-t-shirts-php) – Portfólio pessoal com HTML, Bootstrap, PHP e JS.
